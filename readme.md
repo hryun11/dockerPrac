@@ -1,0 +1,3 @@
+## Endpoints
+
+GET /home
